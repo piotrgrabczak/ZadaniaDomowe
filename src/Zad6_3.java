@@ -5,8 +5,9 @@ public class Zad6_3 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		//dodaje nowy komentarz do zmiany
+		
+	
 		StringBuilder slowo1 = new StringBuilder("MALPKA");
 		StringBuilder slowo2 = new StringBuilder("szympans");
 		StringBuilder slowo3 = new StringBuilder();
