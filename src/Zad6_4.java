@@ -17,7 +17,7 @@ public class Zad6_4 {
 		System.out.println("Podaj drugie słowo: ");
 		StringBuilder slowo2 = new StringBuilder(odczyt.nextLine());
 		StringBuilder wynik = new StringBuilder();
-		
+		oczt
 		if (slowo1.length() < slowo2.length())
 		{
 			return;
