@@ -15,15 +15,16 @@ public class Zad6_6 {
 		
 		odczyt = new Scanner(System.in);
 		int rozmiar = odczyt.nextInt();
-
+		
 		for (int i=0; i<rozmiar; i++)
 		{
+			int[] tab = new int[rozmiar];
 			System.out.println("Podaj liczbę, którą ma zapisać w tablicy");
 			int liczba = odczyt.nextInt();
-			int[i] tab = {liczba};
+			tab[i] = liczba;
 		
 		}
-	
+		
 
 	}
 
