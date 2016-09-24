@@ -23,7 +23,7 @@ public class Zad6_1 {
 		int liczba4 = odczyt.nextInt();
 		int liczba5 = odczyt.nextInt();
 		
-		int[] tab = {liczba1, liczba2, liczba3, liczba4, liczba5};
+		Integer[] tab = {liczba1, liczba2, liczba3, liczba4, liczba5};
 		//Arrays.asList(tab);
 	
 		for (int i=0; i<tab.length; i++){
